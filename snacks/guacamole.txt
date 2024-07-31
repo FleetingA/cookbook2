@@ -4,11 +4,16 @@ Ingredients:
 * 3 avocados
 * 1 onion
 * 1 lime
+* Salt
+* Pepper
+* 2 tomatoes
 
-Optionally, you can add more ingredients and add instructions. 
+Instructions: 
 
-Instructions: 1. Make sure all products are fresh. 
+1. Make sure all products are fresh. 
 2. Chop them. 
 3. Squeeze the limes.
+4. Stir everything well.
+5. Add spices.
 
 
