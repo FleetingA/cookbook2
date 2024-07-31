@@ -1,3 +1,4 @@
+
 Ingredients:
 
 * 3 avocados
@@ -5,3 +6,9 @@ Ingredients:
 * 1 lime
 
 Optionally, you can add more ingredients and add instructions. 
+
+Instructions: 1. Make sure all products are fresh. 
+2. Chop them. 
+3. Squeeze the limes.
+
+
